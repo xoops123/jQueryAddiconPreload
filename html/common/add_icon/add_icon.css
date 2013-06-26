@@ -1,0 +1,24 @@
+/* add icon */
+span.pdfAfter,
+span.docAfter,
+span.xlsAfter,
+span.zipAfter {
+	padding: 2px 0 0 18px;
+	background-image: url(icon_files1.png);
+	background-repeat: no-repeat;
+}
+
+span.pdfBefore,
+span.docBefore,
+span.xlsBefore,
+span.zipBefore {
+	padding: 2px 18px 0 0;
+	background-image: url(icon_files1.png);
+	background-repeat: no-repeat;
+}
+
+span.pdfAfter,span.pdfBefore {	background-position: 0 0; }
+span.docAfter,span.docBefore {	background-position: -20px -20px; }
+span.xlsAfter,span.xlsBefore {	background-position: -40px -40px; }
+span.zipAfter,span.zipBefore {	background-position: -60px -60px; }
+
