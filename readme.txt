@@ -4,8 +4,16 @@ PDF,Word,Excel,ZIPファイルへのリンクがあれば対応した画像を�
 ====================
 説明
 ====================
-ということで、お試しくださいませ。
+その名のとおり、PDF,Word,Excel,ZIPファイルへのリンクがあれば対応した画像を付加するプリロードです。
+下記 http://www.nk0206.com/life/ サイトで掲載されていたjQueryプラグインを利用させていただきました。ありがとうございます。
 
+インストールは、X-updateでの導入またはFTP等を用いて手動で指定ディレクトリにコピーしてください。
+（html配下のcommonディレクトリにadd_iconディレクトリを、preloadディレクトリにjQueryAddicon.class.phpをコピーしてください。）
+
+ * addIcon jQuery Plugin
+ * Editor Poundhound
+ * http://www.nk0206.com/life/
+ * http://www.nk0206.com/life/2010/02/add-icon-plugin.html
 
 ====================
 履歴
